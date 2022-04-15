@@ -1,5 +1,6 @@
 Hi, I’m @NasoohOlabi
 I’m interested in Javascript, Web apps, Python, C++ and in functional programming styles although am comfortable with OOP
+I'm planning on checking out: Angular, Playframework, elixir
 How to reach me nasooholabi@gmail.com
 I don't know what else to say :|
 
