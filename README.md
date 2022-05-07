@@ -10,4 +10,4 @@ I'm planning on checking out in the distant future: Playframework, Elixir, Rust 
 How to reach me nasooholabi@gmail.com  <br/>
 
 I enjoy writing:
-JavaScript, TypeScript, C++, Java, Scala, Go, Kotin, Python
+JavaScript, TypeScript, C++, Java, Scala, Go, PHP, Kotin, Python
