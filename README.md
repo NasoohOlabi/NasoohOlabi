@@ -1,4 +1,5 @@
 Hi, I’m @NasoohOlabi  <br/>
+and this is an outdated intro I'll fix it soon ❤️
 I’m interested in Progressive Web apps, functional programming, functional design patterns.
 
 I'm comfortable with OOP Design, React, vscode, mvc architecture. <br/>
