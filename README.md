@@ -7,4 +7,5 @@ I enjoy writing:
 The language the fits the project/use case
 
 I know enough about:
-JavaScript, TypeScript, C++, Java, Scala, Go, PHP, Kotin, Python
+~~JavaScript, TypeScript, C++, Java, Scala, Go, PHP, Kotin, Python~~
+TypeScript, Java, Python
